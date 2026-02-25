@@ -2,11 +2,10 @@
 
 Pequeno projeto em Pygame com dois textos ("PY" e "DVD") que se movem pela tela, batem nas bordas e mudam de cor/velocidade. Quando os textos colidem entre si, os dois ficam aleatorios (cor e velocidade).
 
-## Instalacao
+## Instalação
 
 ```bash
 python -m venv venv
-# Windows
 venv\Scripts\activate
 pip install pygame
 ```
